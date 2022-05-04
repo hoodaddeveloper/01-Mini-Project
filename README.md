@@ -1,3 +1,2 @@
-# mini_project_1
-
-## My HTML/CSS Mini Project from Web Design Tutorials.
+# 1_Mini_Project
+My first HTML/CSS mini Project.

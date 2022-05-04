@@ -1,2 +1,2 @@
 # 1_Mini_Project
-My HTML/CSS Mini Project from Web Design Tutorials.
+My first HTML/CSS mini Project.

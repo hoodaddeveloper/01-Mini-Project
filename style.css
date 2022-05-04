@@ -24,8 +24,9 @@ body {
 }
 
 .title {
-  width: 160px;
+  width: 217px;
   margin: 25px auto;
+  text-align: center;
   font-size: 25px;
   border-bottom: 5px solid lightgray;
   color: #4c4d4c;

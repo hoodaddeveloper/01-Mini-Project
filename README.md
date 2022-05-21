@@ -1,2 +1,2 @@
-# 01_Mini_Project
+# 01-Mini-Project
 My first HTML/CSS mini Project.

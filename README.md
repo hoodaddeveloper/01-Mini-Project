@@ -1,2 +1,2 @@
 # 01-Mini-Project
-My first HTML/CSS mini Project.
+My first mini Project for practicing HTML/CSS in 2021.
